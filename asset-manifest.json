@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Potfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/Potfolio/static/js/main.968e80d6.chunk.js",
+    "main.js.map": "/Potfolio/static/js/main.968e80d6.chunk.js.map",
+    "runtime-main.js": "/Potfolio/static/js/runtime-main.ed0233df.js",
+    "runtime-main.js.map": "/Potfolio/static/js/runtime-main.ed0233df.js.map",
+    "static/js/2.3fe9d014.chunk.js": "/Potfolio/static/js/2.3fe9d014.chunk.js",
+    "static/js/2.3fe9d014.chunk.js.map": "/Potfolio/static/js/2.3fe9d014.chunk.js.map",
+    "static/js/3.29200bc3.chunk.js": "/Potfolio/static/js/3.29200bc3.chunk.js",
+    "static/js/3.29200bc3.chunk.js.map": "/Potfolio/static/js/3.29200bc3.chunk.js.map",
+    "index.html": "/Potfolio/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Potfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3fe9d014.chunk.js.LICENSE.txt": "/Potfolio/static/js/2.3fe9d014.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Potfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed0233df.js",
+    "static/js/2.3fe9d014.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.968e80d6.chunk.js"
+  ]
+}
